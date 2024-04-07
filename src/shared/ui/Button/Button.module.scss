@@ -17,7 +17,6 @@
     background: none;
 }
 
-
 .background {
     background: var(--bg-color);
     color: var(--primary-color);
@@ -37,7 +36,7 @@
 .square.size_m {
     width: var(--font-line-m);
     height: 40px;
-    font: var(--font-m)
+    font: var(--font-m);
 }
 
 .square.size_l {
